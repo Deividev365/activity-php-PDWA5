@@ -1,4 +1,4 @@
-. Realizar o exercício abaixo:
+1. Realizar o exercício abaixo:
 
 ![front-page](https://user-images.githubusercontent.com/61792159/162644799-b7d2e1d7-cde7-4d30-b264-6f30c33d5121.png)
 
